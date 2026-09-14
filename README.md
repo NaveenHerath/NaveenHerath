@@ -16,7 +16,7 @@
 
 # Hey, I'm Naveen
 
-### I analyse. I model. I optimise.
+### I question. I analyse. I decide.
 
 Thank you for checking out my profile.
 
