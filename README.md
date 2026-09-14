@@ -16,7 +16,7 @@
 
 # Hey, I'm Naveen
 
-### I question. I analyse. I decide.
+### I analyse. I build. I decide.
 
 Thank you for checking out my profile.
 
