@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a2472,50:0e6ba8,100:00b4d8&height=200&section=header&text=Naveen%20Herath&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analytics%20%7C%20Machine%20Learning%20%7C%20Aerospace%20Engineering&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=I+turn+messy+data+into+clear+insights;Python+%7C+SQL+%7C+Power+BI+%7C+R;I+bring+ML+to+engineering+problems;Self-taught%2C+self-driven%2C+always+building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=650&lines=I+turn+messy+data+into+clear+insights;Python+%7C+SQL+%7C+Power+BI+%7C+R;I+bring+ML+to+solve+problems;Self-taught%2C+self-driven%2C+always+building"/>
 
 <a href="https://linkedin.com/in/naveen-vimukthi-herath"><img src="https://img.shields.io/badge/LinkedIn-0e6ba8?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hmnvherath2223@gmail.com"><img src="https://img.shields.io/badge/Gmail-00b4d8?style=for-the-badge&logo=gmail&logoColor=black"/></a>
