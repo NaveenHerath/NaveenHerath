@@ -74,7 +74,8 @@ Thank you for checking out my profile.
 
 <div align="center">
 
-Aerospace Engineering graduate (Kingston University, London) who taught myself data analytics and machine learning out of genuine curiosity & Python, SQL, Power BI, R, and computer vision, all built up through self-study and hands-on projects. I like turning messy datasets into clear, actionable insights, and bringing ML into real problems.
+Aerospace Engineering graduate from Kingston University, London, who taught myself data analytics and machine learning out of genuine curiosity and a desire to solve real-world problems. Hands-on experience using Python, SQL, Power BI and R to explore, clean and analyse data, build dashboards, uncover insights and communicate findings clearly. I enjoy turning messy datasets into actionable insights and applying machine learning to real-world challenges.
+
 
 **Let's connect and build something data-driven.**
 
