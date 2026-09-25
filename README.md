@@ -16,7 +16,7 @@
 
 # Hey, I'm Naveen
 
-### I analyse. I build. I improve.
+### I analyse. I build. I improve. ### You can just do things.
 
 Thank you for checking out my profile.
 
